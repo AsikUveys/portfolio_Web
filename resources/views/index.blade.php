@@ -8,7 +8,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&amp;subset=devanagari,latin-ext" rel="stylesheet">
-		<title>Browny</title>
+		<title>Aşık Üveys</title>
         
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -18,7 +18,7 @@
 			<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
         <![endif]-->
 
-		@include('layouts.style')
+		@include('frontend.layouts.style')
     </head>
 	
 	<body>
@@ -39,14 +39,14 @@
 			                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
 			                    <i class="fa fa-bars"></i>
 			                </button>
-			                <a class="navbar-brand" href="index.php" style="color:black;">AŞIK üVEYS</a>
+			                <a class="navbar-brand" href="index.php">AŞIK üVEYS</a>
 			            </div><!--/.navbar-header-->
 			            <!-- End Header Navigation -->
 
 			            <!-- Collect the nav links, forms, and other content for toggling -->
 			            <div class="collapse navbar-collapse menu-ui-design" id="navbar-menu">
 			                <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
-			                <li class=" smooth-menu active"></li>
+			                <li class="smooth-menu active"></li>
 			                    <li class="smooth-menu"><a href="#education">education</a></li>
 			                    <li class="smooth-menu"><a href="#skills">skills</a></li>
 			                    <li class="smooth-menu"><a href="#experience">experience</a></li>
@@ -72,8 +72,8 @@
 				<div class="row">
 					<div class="col-md-12 text-center">
 						<div class="header-text">
-							<h2>hi <span>,</span> i am <br> browny <br> star <span>.</span>   </h2>
-							<p>ui/ux designer and web developer</p>
+							<h2>hi <span>,</span> i am <br> Aşık Üveys <br> star <span>.</span>   </h2>
+							<p>Junior Full Stack Developer</p>
 							<a href="assets/download/browney.txt" download>download resume</a>
 						</div><!--/.header-text-->
 					</div><!--/.col-->
@@ -182,7 +182,7 @@
 									<h3>master <span>of </span> computer science</h3>
 								</div><!--/.experience-time-->
 								<div class="timeline-horizontal-border">
-									<i class="fa fa-circle" aria-hidden="true"></i>
+									<i class="fa fa-circle"  aria-hidden="true"></i>
 									<span class="single-timeline-horizontal"></span>
 								</div>
 								<div class="timeline">
@@ -228,7 +228,7 @@
 									<h3>bachelor <span>of </span> creative design</h3>
 								</div><!--/.experience-time-->
 								<div class="timeline-horizontal-border">
-									<i class="fa fa-circle" aria-hidden="true"></i>
+									<i class="fa fa-circle" aria-hidden="true" ></i>
 									<span class="single-timeline-horizontal spacial-horizontal-line
 									"></span>
 								</div>
@@ -264,9 +264,9 @@
 								<div class="single-skill-content">
 									<div class="barWrapper">
 										<span class="progressText">adobe photoshop</span>
-										<div class="single-progress-txt">
+										<div class="single-progress-txt" >
 											<div class="progress ">
-												<div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="10" aria-valuemax="100" style="">
+												<div  class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="10" aria-valuemax="100" style="">
 													  
 												</div>
 											</div>
@@ -900,7 +900,7 @@
 		
 		<!-- Include all js compiled plugins (below), or include individual files as needed -->
 
-		@include('layouts.scripts')
+		@include('frontend.layouts.scripts')
 
     </body>
 	
