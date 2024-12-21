@@ -8,8 +8,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&amp;subset=devanagari,latin-ext" rel="stylesheet">
-		<title>Aşık Üveys</title>
+		<title>Aşık Üveys / Porfolio</title>
         
+
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		
@@ -72,9 +73,9 @@
 				<div class="row">
 					<div class="col-md-12 text-center">
 						<div class="header-text">
-							<h2>hi <span>,</span> i am <br> Aşık Üveys <br> star <span>.</span>   </h2>
+							<h2>hi <span id="virgül">,</span> i am <br> Aşık Üveys <br> Uzunsakal <!-- <span id="nokta">.</span> -->   </h2>
 							<p>Junior Full Stack Developer</p>
-							<a href="assets/download/browney.txt" download>download resume</a>
+							<a target="_blank"  href="/">About Me</a>
 						</div><!--/.header-text-->
 					</div><!--/.col-->
 				</div><!-- /.row-->
@@ -94,28 +95,32 @@
 						<div class="col-sm-6">
 							<div class="single-about-txt">
 								<h3>
-									I am a Professional UI/UX Designer and Web developer. Consectetur an adipisi elita, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud.
+									I am Aşık Üveys Uzunsakal, 22 years old. I graduated with a degree in computer programming.
 								</h3>
 								<p>
-									Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspi unde omnis iste natus error sit voluptatem accusantium doloremque lauda ntium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam vo luptatem quia voluptas sit aspernatur aut odit aut fugit,
+									Who is developing myself in the field of software and
+									I am a programmer with the necessary motivation.
+									high and I work meticulously on my work. Honest and fair
+									I take care to be. I remain calm and resolve any crisis.
+									I am a person who focuses. In general, I have been involved in Web Development (Html, Css, Php, JavaScript) projects and developed sites using Wordpress. Apart from Web Development, I have also developed many projects with Python. Although I have projects related to other fields and coding languages, the area I mainly work on is Web Development. Even if there are not exactly suitable images for the subject in question, there should be images suitable for the content of the subject. Example any ceiling light.
 								</p>
 								<div class="row">
 									<div class="col-sm-4">
 										<div class="single-about-add-info">
 											<h3>phone</h3>
-											<p>987-123-6547</p>
+											<p>0553 382 6418</p>
 										</div>
 									</div>
 									<div class="col-sm-4">
 										<div class="single-about-add-info">
 											<h3>email</h3>
-											<p>browny@info.com</p>
+											<p>asikuveys1@gmail.com</p>
 										</div>
 									</div>
 									<div class="col-sm-4">
 										<div class="single-about-add-info">
 											<h3>website</h3>
-											<p>www.brownsine.com</p>
+											<p>www.asikuveys.com</p>
 										</div>
 									</div>
 								</div>
@@ -128,23 +133,16 @@
 									<ul>
 										<li>
 											<a href="#">
-												<i  class="fa fa-facebook" aria-hidden="true"></i>
-											</a>
-										</li><!-- / li -->
-										<li>
-											<a href="#">
-												<i  class="fa fa-dribbble" aria-hidden="true"></i>
-											</a>
-											
-										</li><!-- / li -->
-										<li>
-											<a href="#">
 												<i  class="fa fa-twitter" aria-hidden="true"></i>
 											</a>
-											
 										</li><!-- / li -->
 										<li>
-											<a href="#">
+											<a href="https://github.com/AsikUveys" target="_blank">
+												<i  class="fa fa-github" aria-hidden="true"></i>
+											</a>
+										</li><!-- / li -->
+										<li>
+											<a href="https://www.linkedin.com/in/a%C5%9F%C4%B1k-%C3%BCveys-uzunsakal-a14801262/" target="_blank">
 												<i  class="fa fa-linkedin" aria-hidden="true"></i>
 											</a>
 										</li><!-- / li -->
@@ -178,8 +176,8 @@
 						<div class="col-sm-4">
 							<div class="single-horizontal-timeline">
 								<div class="experience-time">
-									<h2>2008 - 2010</h2>
-									<h3>master <span>of </span> computer science</h3>
+									<h2>2015 - 2019</h2>
+									<h3>high school <span> </span></h3>
 								</div><!--/.experience-time-->
 								<div class="timeline-horizontal-border">
 									<i class="fa fa-circle"  aria-hidden="true"></i>
@@ -188,11 +186,11 @@
 								<div class="timeline">
 									<div class="timeline-content">
 										<h4 class="title">
-											university of north carolina
+											Hight Scoole of Anadolu 
 										</h4>
-										<h5>north carolina, USA</h5>
+										<h5>Rize, Türkiye</h5>
 										<p class="description">
-											Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore eu fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non proident. 
+											In high school, where I graduated as a numerical student, I laid the foundations of mathematics, which is important in programming.
 										</p>
 									</div><!--/.timeline-content-->
 								</div><!--/.timeline-->
@@ -201,8 +199,8 @@
 						<div class="col-sm-4">
 							<div class="single-horizontal-timeline">
 								<div class="experience-time">
-									<h2>2004 - 2008</h2>
-									<h3>bachelor <span>of </span> computer science</h3>
+									<h2>2021 - 2023</h2>
+									<h3>Computter Programmer<span> </span></h3>
 								</div><!--/.experience-time-->
 								<div class="timeline-horizontal-border">
 									<i class="fa fa-circle" aria-hidden="true"></i>
@@ -211,22 +209,22 @@
 								<div class="timeline">
 									<div class="timeline-content">
 										<h4 class="title">
-											university of north carolina
+											University of Recep Tayyip Erdoğan
 										</h4>
-										<h5>north carolina, USA</h5>
+										<h5>Rize, Türkiye</h5>
 										<p class="description">
-											Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore eu fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non proident. 
+											Here I graduated with a degree in computer programming and laid the programming foundations I learned here. And I developed my first projects and my first teamwork here.
 										</p>
 									</div><!--/.timeline-content-->
 								</div><!--/.timeline-->
 							</div>
 						</div>
-						<div class="col-sm-4">
+						<!-- <div class="col-sm-4">
 							<div class="single-horizontal-timeline">
 								<div class="experience-time">
 									<h2>2004 - 2008</h2>
 									<h3>bachelor <span>of </span> creative design</h3>
-								</div><!--/.experience-time-->
+								</div>
 								<div class="timeline-horizontal-border">
 									<i class="fa fa-circle" aria-hidden="true" ></i>
 									<span class="single-timeline-horizontal spacial-horizontal-line
@@ -241,10 +239,10 @@
 										<p class="description">
 											Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore eu fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non proident. 
 										</p>
-									</div><!--/.timeline-content-->
-								</div><!--/.timeline-->
+									</div>
+								</div>
 							</div>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
@@ -266,44 +264,44 @@
 										<span class="progressText">adobe photoshop</span>
 										<div class="single-progress-txt" >
 											<div class="progress ">
-												<div  class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="10" aria-valuemax="100" style="">
+												<div  class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="10" aria-valuemax="100" style="">
 													  
 												</div>
 											</div>
-											<h3>90%</h3>	
+											<!-- <h3>90%</h3>	 -->
 										</div>
 									</div><!-- /.barWrapper -->
 									<div class="barWrapper">
-										<span class="progressText">adobe illustrator</span>
+										<span class="progressText">Html 5</span>
 										<div class="single-progress-txt">
 											<div class="progress ">
-											   <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="10" aria-valuemax="100" style="">
+											   <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="10" aria-valuemax="100" style="">
 												    
 											   </div>
 											</div>
-											<h3>85%</h3>	
+											<!-- <h3>85%</h3>	 -->
 										</div>
 									</div><!-- /.barWrapper -->
 									<div class="barWrapper">
-										<span class="progressText">adobe after effects</span>
+										<span class="progressText">CSS 3</span>
 										<div class="single-progress-txt">
 											<div class="progress ">
-											   <div class="progress-bar" role="progressbar" aria-valuenow="97" aria-valuemin="10" aria-valuemax="100" style="">
+											   <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="10" aria-valuemax="100" style="">
 												   
 											   </div>
 											</div>
-											<h3>97%</h3>	
+											<!-- <h3>97%</h3>	 -->
 										</div>
 									</div><!-- /.barWrapper -->
 									<div class="barWrapper">
-										<span class="progressText">sketch</span>
+										<span class="progressText">JavaScript</span>
 										<div class="single-progress-txt">
 											<div class="progress ">
-											   <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="10" aria-valuemax="100" style="">
+											   <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="10" aria-valuemax="100" style="">
 												    
 											   </div>
 											</div>
-											<h3>90%</h3>	
+											<!-- <h3>90%</h3>	 -->
 										</div>
 									</div><!-- /.barWrapper -->
 								</div>
@@ -311,47 +309,47 @@
 							<div class="col-md-6">
 								<div class="single-skill-content">
 									<div class="barWrapper">
-										<span class="progressText">html 5</span>
+										<span class="progressText">PHP - Laravel</span>
 										<div class="single-progress-txt">
 											<div class="progress ">
-												<div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="10" aria-valuemax="100" style="">
+												<div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="10" aria-valuemax="100" style="">
 													
 												</div>
 											</div>
-											<h3>90%</h3>	
+											<!-- <h3>90%</h3>	 -->
 										</div>
 									</div><!-- /.barWrapper -->
 									<div class="barWrapper">
-										<span class="progressText">css 3 animation</span>
+										<span class="progressText">Python</span>
 										<div class="single-progress-txt">
 											<div class="progress ">
-											   <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="10" aria-valuemax="100" style="">
+											   <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="10" aria-valuemax="100" style="">
 												    
 											   </div>
 											</div>
-											<h3>85%</h3>	
+											<!-- <h3>85%</h3>	 -->
 										</div>
 									</div><!-- /.barWrapper -->
 									<div class="barWrapper">
-										<span class="progressText">communication</span>
+										<span class="progressText">mySql</span>
 										<div class="single-progress-txt">
 											<div class="progress ">
-											   <div class="progress-bar" role="progressbar" aria-valuenow="97" aria-valuemin="10" aria-valuemax="100" style="">
+											   <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="10" aria-valuemax="100" style="">
 												   
 											   </div>
 											</div>
-											<h3>97%</h3>	
+											<!-- <h3>97%</h3>	 -->
 										</div>
 									</div><!-- /.barWrapper -->
 									<div class="barWrapper">
-										<span class="progressText"> creativity</span>
+										<span class="progressText"> Git and GitHub</span>
 										<div class="single-progress-txt">
 											<div class="progress ">
-											   <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="10" aria-valuemax="100" style="">
+											   <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="10" aria-valuemax="100" style="">
 												    
 											   </div>
 											</div>
-											<h3>90%</h3>	
+											<!-- <h3>90%</h3>	 -->
 										</div>
 									</div><!-- /.barWrapper -->
 								</div>
@@ -538,7 +536,7 @@
 		<!--experience end -->
 
 		<!--profiles start -->
-		<section id="profiles" class="profiles">
+		<!-- <section id="profiles" class="profiles">
 			<div class="profiles-details">
 				<div class="section-heading text-center">
 					<h2>profiles</h2>
@@ -666,7 +664,7 @@
 				</div>
 			</div>
 
-		</section><!--/.profiles-->
+		</section>/.profiles -->
 		<!--profiles end -->
 
 		<!--portfolio start -->
@@ -679,18 +677,35 @@
 					<div class="portfolio-content">
 						<div class="isotope">
 							<div class="row">
-
 								<div class="col-sm-4">
 									<div class="item">
-										<img src="assets/images/portfolio/p1.jpg" alt="portfolio image"/>
+										<img src="dist-front/assets/images/portfolio/webSite1.png" alt="portfolio image"/>
 										<div class="isotope-overlay">
 											<a href="#">
-												ui/ux design
+												Portfolio Web Site
 											</a>
 										</div><!-- /.isotope-overlay -->
 									</div><!-- /.item -->
 									<div class="item">
-										<img src="assets/images/portfolio/p2.jpg" alt="portfolio image"/>
+										<img src="dist-front/assets/images/portfolio/webSite1.png" alt="portfolio image"/>
+										<div class="isotope-overlay">
+											<a href="#">
+												Php Admin Panel Web Site
+											</a>
+										</div><!-- /.isotope-overlay -->
+									</div><!-- /.item -->
+								</div><!-- /.col -->
+								<div class="col-sm-4">
+									<div class="item">
+										<img src="dist-front/assets/images/portfolio/webSite1.png" alt="portfolio image"/>
+										<div class="isotope-overlay">
+											<a href="#">
+												Python Automation Program
+											</a>
+										</div><!-- /.isotope-overlay -->
+									</div><!-- /.item -->
+									<div class="item">
+										<img src="dist-front/assets/images/portfolio/webSite1.png" alt="portfolio image"/>
 										<div class="isotope-overlay">
 											<a href="#">
 												ui/ux design
@@ -701,18 +716,7 @@
 
 								<div class="col-sm-4">
 									<div class="item">
-										<img src="assets/images/portfolio/p3.jpg" alt="portfolio image"/>
-										<div class="isotope-overlay">
-											<a href="#">
-												web design
-											</a>
-										</div><!-- /.isotope-overlay -->
-									</div><!-- /.item -->
-								</div><!-- /.col -->
-
-								<div class="col-sm-4">
-									<div class="item">
-										<img src="assets/images/portfolio/p4.jpg" alt="portfolio image"/>
+										<img src="dist-front/assets/images/portfolio/webSite1.png" alt="portfolio image"/>
 										<div class="isotope-overlay">
 											<a href="#">
 												web development
@@ -720,7 +724,7 @@
 										</div><!-- /.isotope-overlay -->
 									</div><!-- /.item -->
 									<div class="item">
-										<img src="assets/images/portfolio/p5.jpg" alt="portfolio image"/>
+										<img src="dist-front/assets/images/portfolio/webSite1.png" alt="portfolio image"/>
 										<div class="isotope-overlay">
 											<a href="#">
 												web development
@@ -738,7 +742,7 @@
 		<!--portfolio end -->
 
 		<!--clients start -->
-		<section id="clients" class="clients">
+		<!-- <section id="clients" class="clients">
 			<div class="section-heading text-center">
 				<h2>clients</h2>
 			</div>
@@ -749,42 +753,42 @@
 							<a href="#">
 								<img src="assets/images/clients/c1.png" alt="brand-image" />
 							</a>
-						</div><!--/.item-->
+						</div>
 						<div class="item">
 							<a href="#">
 								<img src="assets/images/clients/c2.png" alt="brand-image" />
 							</a>
-						</div><!--/.item-->
+						</div>
 						<div class="item">
 							<a href="#">
 								<img src="assets/images/clients/c3.png" alt="brand-image" />
 							</a>
-						</div><!--/.item-->
+						</div>
 						<div class="item">
 							<a href="#">
 								<img src="assets/images/clients/c4.png" alt="brand-image" />
 							</a>
-						</div><!--/.item-->
+						</div>
 						<div class="item">
 							<a href="#">
 								<img src="assets/images/clients/c5.png" alt="brand-image" />
 							</a>
-						</div><!--/.item-->
+						</div>
 						<div class="item">
 							<a href="#">
 								<img src="assets/images/clients/c6.png" alt="brand-image" />
 							</a>
-						</div><!--/.item-->
+						</div>
 						<div class="item">
 							<a href="#">
 								<img src="assets/images/clients/c7.png" alt="brand-image" />
 							</a>
-						</div><!--/.item-->
-					</div><!--/.owl-carousel-->
-				</div><!--/.container-->
-			</div><!--/.clients-area-->
+						</div>
+					</div>
+				</div>
+			</div>
 
-		</section><!--/.clients-->
+		</section>/.clients -->
 
 		</section><!--/.clients-->
 		<!--clients end -->
@@ -842,30 +846,29 @@
 							<div class="single-contact-box">
 								<div class="contact-adress">
 									<div class="contact-add-head">
-										<h3>browny star</h3>
-										<p>uI/uX designer</p>
+										<h3>Aşık Üveys Uzunsakal</h3>
+										<p>Junior Full Stack Developer</p>
 									</div>
 									<div class="contact-add-info">
 										<div class="single-contact-add-info">
 											<h3>phone</h3>
-											<p>987-123-6547</p>
+											<p>0553 382 6418</p>
 										</div>
 										<div class="single-contact-add-info">
 											<h3>email</h3>
-											<p>browny@info.com</p>
+											<p>asikuveys1@gmail.com</p>
 										</div>
 										<div class="single-contact-add-info">
 											<h3>website</h3>
-											<p>www.brownsine.com</p>
+											<p>/</p>
 										</div>
 									</div>
 								</div><!--/.contact-adress-->
 								<div class="hm-foot-icon">
 									<ul>
-										<li><a href="#"><i class="fa fa-facebook"></i></a></li><!--/li-->
-										<li><a href="#"><i class="fa fa-dribbble"></i></a></li><!--/li-->
 										<li><a href="#"><i class="fa fa-twitter"></i></a></li><!--/li-->
-										<li><a href="#"><i class="fa fa-linkedin"></i></a></li><!--/li-->
+										<li><a href="https://github.com/AsikUveys"><i class="fa fa-github"></i></a></li><!--/li-->
+										<li><a href="https://www.linkedin.com/in/a%C5%9F%C4%B1k-%C3%BCveys-uzunsakal-a14801262/"><i class="fa fa-linkedin"></i></a></li><!--/li-->
 										<li><a href="#"><i class="fa fa-instagram"></i></a></li><!--/li-->
 									</ul><!--/ul-->
 								</div><!--/.hm-foot-icon-->
@@ -883,7 +886,7 @@
 			<div class="container">
 				<div class="hm-footer-copyright text-center">
 					<p>
-						&copy; copyright yourname. design and developed by <a href="https://www.themesine.com/">themesine</a>
+						&copy; copyright Aşık Üveys Uzunsakal. design and developed by <a href="https://www.themesine.com/">themesine</a>
 					</p><!--/p-->
 				</div><!--/.text-center-->
 			</div><!--/.container-->
