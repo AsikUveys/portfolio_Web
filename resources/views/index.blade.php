@@ -73,7 +73,7 @@
 				<div class="row">
 					<div class="col-md-12 text-center">
 						<div class="header-text">
-							<h2>hi <span id="virgül">,</span> i am <br> Aşık Üveys <br> Uzunsakal <!-- <span id="nokta">.</span> -->   </h2>
+							<h2>hi <span id="virgül">,</span> i am <br> Aşık Üveys <br> Uzunsakal <!--<span id="nokta">.</span>-->   </h2>
 							<p>Junior Full Stack Developer</p>
 							<a target="_blank"  href="/">About Me</a>
 						</div><!--/.header-text-->
@@ -687,28 +687,28 @@
 										</div><!-- /.isotope-overlay -->
 									</div><!-- /.item -->
 									<div class="item">
-										<img src="dist-front/assets/images/portfolio/webSite1.png" alt="portfolio image"/>
+										<img src="dist-front/assets/images/portfolio/wordpress.png" alt="portfolio image"/>
 										<div class="isotope-overlay">
 											<a href="#">
-												Php Admin Panel Web Site
+												Wordpress Web Site
 											</a>
 										</div><!-- /.isotope-overlay -->
 									</div><!-- /.item -->
 								</div><!-- /.col -->
 								<div class="col-sm-4">
 									<div class="item">
-										<img src="dist-front/assets/images/portfolio/webSite1.png" alt="portfolio image"/>
+										<img src="dist-front/assets/images/portfolio/boksW.png" alt="portfolio image"/>
 										<div class="isotope-overlay">
 											<a href="#">
-												Python Automation Program
+												The life of a boxer web site
 											</a>
 										</div><!-- /.isotope-overlay -->
 									</div><!-- /.item -->
 									<div class="item">
-										<img src="dist-front/assets/images/portfolio/webSite1.png" alt="portfolio image"/>
+										<img src="dist-front/assets/images/portfolio/adminW.png" alt="portfolio image"/>
 										<div class="isotope-overlay">
 											<a href="#">
-												ui/ux design
+											Php Admin Panel Course Web Site
 											</a>
 										</div><!-- /.isotope-overlay -->
 									</div><!-- /.item -->
@@ -716,18 +716,18 @@
 
 								<div class="col-sm-4">
 									<div class="item">
-										<img src="dist-front/assets/images/portfolio/webSite1.png" alt="portfolio image"/>
+										<img src="dist-front/assets/images/portfolio/karali.png" alt="portfolio image"/>
 										<div class="isotope-overlay">
 											<a href="#">
-												web development
+												Special admin panel web site <br>for<br> Karali Tea company
 											</a>
 										</div><!-- /.isotope-overlay -->
 									</div><!-- /.item -->
 									<div class="item">
-										<img src="dist-front/assets/images/portfolio/webSite1.png" alt="portfolio image"/>
+										<img src="dist-front/assets/images/portfolio/adminW.png" alt="portfolio image"/>
 										<div class="isotope-overlay">
 											<a href="#">
-												web development
+												Php Admin Panel Course Web Site
 											</a>
 										</div><!-- /.isotope-overlay -->
 									</div><!-- /.item -->
