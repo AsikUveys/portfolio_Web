@@ -50,10 +50,8 @@
 			                <li class="smooth-menu active"></li>
 			                    <li class="smooth-menu"><a href="#education">education</a></li>
 			                    <li class="smooth-menu"><a href="#skills">skills</a></li>
-			                    <li class="smooth-menu"><a href="#experience">experience</a></li>
-			                    <li class="smooth-menu"><a href="#profiles">profile</a></li>
+			                    <li class="smooth-menu"><a href="#experience">experience & certificate</a></li>
 			                    <li class="smooth-menu"><a href="#portfolio">portfolio</a></li>
-			                    <li class="smooth-menu"><a href="#clients">clients</a></li>
 			                    <li class="smooth-menu"><a href="#contact">contact</a></li>
 			                </ul><!--/.nav -->
 			            </div><!-- /.navbar-collapse -->
@@ -364,7 +362,7 @@
 		<!--experience start -->
 		<section id="experience" class="experience">
 			<div class="section-heading text-center">
-				<h2>experience</h2>
+				<h2>experience & certificate</h2>
 			</div>
 			<div class="container">
 				<div class="experience-content">
@@ -375,8 +373,8 @@
 										<div class="row">
 											<div class="col-md-5">
 												<div class="experience-time text-right">
-													<h2>2018 - Present</h2>
-													<h3>creative director</h3>
+													<h2>2022 / 01 - 02</h2>
+													<h3>website usability</h3>
 												</div><!--/.experience-time-->
 											</div><!--/.col-->
 											<div class="col-md-offset-1 col-md-5">
@@ -384,11 +382,11 @@
 													<div class="timeline-content">
 														<h4 class="title">
 															<span><i class="fa fa-circle" aria-hidden="true"></i></span>
-															hoplony tech limited
+															<b> BTK Academy </b>
 														</h4>
-														<h5>newyork, USA</h5>
+														<h5>online education</h5>
 														<p class="description">
-															Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore eu fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non proident. 
+														I completed an informative and instructive training on website usability.
 														</p>
 													</div><!--/.timeline-content-->
 												</div><!--/.timeline-->
@@ -400,24 +398,15 @@
 								<li>
 									<div class="single-timeline-box fix">
 										<div class="row">
-											<div class="col-md-offset-1 col-md-5 experience-time-responsive">
-												<div class="experience-time">
-													<h2>
-														<span><i class="fa fa-circle" aria-hidden="true"></i></span>
-														2016 - 2018
-													</h2>
-													<h3>associate design director</h3>
-												</div><!--/.experience-time-->
-											</div><!--/.col-->
 											<div class="col-md-5">
 												<div class="timeline">
 													<div class="timeline-content text-right">
 														<h4 class="title">
-															hoplony tech limited
+															<b> BTK Academy </b> 
 														</h4>
-														<h5>newyork, USA</h5>
+														<h5>online education</h5>
 														<p class="description">
-															Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore eu fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non proident. 
+														I completed a training where I learned web development using html 5 and I was awarded a certificate.
 														</p>
 													</div><!--/.timeline-content-->
 												</div><!--/.timeline-->
@@ -426,9 +415,9 @@
 												<div class="experience-time">
 													<h2>
 														<span><i class="fa fa-circle" aria-hidden="true"></i></span>
-														2016 - 2018
+														2022 / 02 - 03
 													</h2>
-													<h3>associate design director</h3>
+													<h3>Web Development with HTML 5</h3>
 												</div><!--/.experience-time-->
 											</div><!--/.col-->
 										</div>
@@ -440,8 +429,8 @@
 										<div class="row">
 											<div class="col-md-5">
 												<div class="experience-time text-right">
-													<h2>2013 - 2016</h2>
-													<h3>senior UI/UX designer</h3>
+													<h2>2022 / 09 - 10</h2>
+													<h3>CSS Basics</h3>
 												</div><!--/.experience-time-->
 											</div><!--/.col-->
 											<div class="col-md-offset-1 col-md-5">
@@ -449,11 +438,11 @@
 													<div class="timeline-content">
 														<h4 class="title">
 															<span><i class="fa fa-circle" aria-hidden="true"></i></span>
-															hoplony tech limited
+															<b> BTK Academy </b>
 														</h4>
-														<h5>newyork, USA</h5>
+														<h5>online education</h5>
 														<p class="description">
-															Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore eu fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non proident. 
+															I have successfully completed the training in which I learned how important the usability of css on a website with css technology and I was entitled to receive the certificate.
 														</p>
 													</div><!--/.timeline-content-->
 												</div><!--/.timeline-->
@@ -465,24 +454,15 @@
 								<li>
 									<div class="single-timeline-box fix">
 										<div class="row">
-											<div class="col-md-offset-1 col-md-5 experience-time-responsive">
-												<div class="experience-time">
-													<h2>
-														<span><i class="fa fa-circle" aria-hidden="true"></i></span>
-														2012 - 2013
-													</h2>
-													<h3>UI/UX designer</h3>
-												</div><!--/.experience-time-->
-											</div><!--/.col-->
 											<div class="col-md-5">
 												<div class="timeline">
 													<div class="timeline-content text-right">
 														<h4 class="title">
-															hoplony tech limited
+															<b> Code.org </b>
 														</h4>
-														<h5>newyork, USA</h5>
+														<h5>online education</h5>
 														<p class="description">
-															Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore eu fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non proident. 
+															I successfully completed this training where I learned the algorithm structure and was awarded the certificate.
 														</p>
 													</div><!--/.timeline-content-->
 												</div><!--/.timeline-->
@@ -491,9 +471,9 @@
 												<div class="experience-time">
 													<h2>
 														<span><i class="fa fa-circle" aria-hidden="true"></i></span>
-														2012 - 2013
+														2023 / 05 - 06
 													</h2>
-													<h3>UI/UX designer</h3>
+													<h3>The Hour of Code</h3>
 												</div><!--/.experience-time-->
 											</div><!--/.col-->
 										</div>
@@ -505,8 +485,8 @@
 										<div class="row">
 											<div class="col-md-5">
 												<div class="experience-time text-right">
-													<h2>2010 - 2012</h2>
-													<h3>frontend developer</h3>
+													<h2>2023 / 07 - 09</h2>
+													<h3>information processing</h3>
 												</div><!--/.experience-time-->
 											</div><!--/.col-->
 											<div class="col-md-offset-1 col-md-5">
@@ -514,11 +494,123 @@
 													<div class="timeline-content">
 														<h4 class="title">
 															<span><i class="fa fa-circle" aria-hidden="true"></i></span>
-															hoplony tech limited
+															<b>- karali çay company -</b>
 														</h4>
-														<h5>newyork, USA</h5>
+														<h5>full time</h5>
 														<p class="description">
-															Duis aute irure dolor in reprehenderit in vol patate velit esse cillum dolore eu fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non proident. 
+															In the IT team, I have developed in technologies such as web site construction, many automation programs, computer hardware, camera systems, but most importantly, I have had experience in web site development with php.
+														</p>
+													</div><!--/.timeline-content-->
+												</div><!--/.timeline-->
+											</div><!--/.col-->
+										</div>
+									</div><!--/.single-timeline-box-->
+								</li>
+
+								<li>
+									<div class="single-timeline-box fix">
+										<div class="row">
+											<div class="col-md-5">
+												<div class="timeline">
+													<div class="timeline-content text-right">
+														<h4 class="title">
+															<b> BTK Academy </b>
+														</h4>
+														<h5>online education</h5>
+														<p class="description">
+															I have successfully completed this training, which I have knowledge about the security of Windows operating systems, by receiving the certificate.
+														</p>
+													</div><!--/.timeline-content-->
+												</div><!--/.timeline-->
+											</div><!--/.col-->
+											<div class="col-md-offset-1 col-md-5 experience-time-main">
+												<div class="experience-time">
+													<h2>
+														<span><i class="fa fa-circle" aria-hidden="true"></i></span>
+														2024 / 09 - 09
+													</h2>
+													<h3>Windows Operating Systems Security</h3>
+												</div><!--/.experience-time-->
+											</div><!--/.col-->
+										</div>
+									</div><!--/.single-timeline-box-->
+								</li>
+
+								<li>
+									<div class="single-timeline-box fix">
+										<div class="row">
+											<div class="col-md-5">
+												<div class="experience-time text-right">
+													<h2>2024 / 09 - 12</h2>
+													<h3>Search Engine Quality İmprovement Specialist</h3>
+												</div><!--/.experience-time-->
+											</div><!--/.col-->
+											<div class="col-md-offset-1 col-md-5">
+												<div class="timeline">
+													<div class="timeline-content">
+														<h4 class="title">
+															<span><i class="fa fa-circle" aria-hidden="true"></i></span>
+															<b>- Yandex -</b>									
+														</h4>
+														<h5>Remote</h5>
+														<p class="description">
+															I worked as a search engine quality improvement specialist for Yandex search engine. In this process, I developed myself in search engine optimization.
+														</p>
+													</div><!--/.timeline-content-->
+												</div><!--/.timeline-->
+											</div><!--/.col-->
+										</div>
+									</div><!--/.single-timeline-box-->
+								</li>
+
+								<li>
+									<div class="single-timeline-box fix">
+										<div class="row">
+											<div class="col-md-5">
+												<div class="timeline">
+													<div class="timeline-content text-right">
+														<h4 class="title">
+															<b>BTK Academ</b>
+														</h4>
+														<h5>online education</h5>
+														<p class="description">
+															I know the importance of git and github in the business environment and I was entitled to receive the certificate by successfully completing this training by gaining very important information.
+														</p>
+													</div><!--/.timeline-content-->
+												</div><!--/.timeline-->
+											</div><!--/.col-->
+											<div class="col-md-offset-1 col-md-5 experience-time-main">
+												<div class="experience-time">
+													<h2>
+														<span><i class="fa fa-circle" aria-hidden="true"></i></span>
+														2024 / 10 - 11
+													</h2>
+													<h3>Version Controls: Git and GitHub</h3>
+												</div><!--/.experience-time-->
+											</div><!--/.col-->
+										</div>
+									</div><!--/.single-timeline-box-->
+								</li>
+
+								<li>
+									<div class="single-timeline-box fix">
+										<div class="row">
+											<div class="col-md-5">
+												<div class="experience-time text-right">
+													<h2>2024 / 10 - 12</h2>
+													<h3>Web Application Development with PHP 8</h3>
+												</div><!--/.experience-time-->
+											</div><!--/.col-->
+											<div class="col-md-offset-1 col-md-5">
+												<div class="timeline">
+													<div class="timeline-content">
+														<h4 class="title">
+															<span><i class="fa fa-circle" aria-hidden="true"></i></span>
+															<b> BTK Academy </b> 
+														</h4>
+														<h5>online education</h5>
+														<p class="description">
+														In this training where I learned php and laravel, I gained very important information and with this information I learned how to develop a site with a database with php or laravel. I was awarded this certificate for successfully completing this training.
 														</p>
 													</div><!--/.timeline-content-->
 												</div><!--/.timeline-->
@@ -686,14 +778,14 @@
 											</a>
 										</div><!-- /.isotope-overlay -->
 									</div><!-- /.item -->
-									<div class="item">
+									<!-- <div class="item">
 										<img src="dist-front/assets/images/portfolio/wordpress.png" alt="portfolio image"/>
 										<div class="isotope-overlay">
 											<a href="#">
 												Wordpress Web Site
 											</a>
-										</div><!-- /.isotope-overlay -->
-									</div><!-- /.item -->
+										</div>
+									</div> -->
 								</div><!-- /.col -->
 								<div class="col-sm-4">
 									<div class="item">
@@ -704,15 +796,15 @@
 											</a>
 										</div><!-- /.isotope-overlay -->
 									</div><!-- /.item -->
-									<div class="item">
+									<!-- <div class="item">
 										<img src="dist-front/assets/images/portfolio/adminW.png" alt="portfolio image"/>
 										<div class="isotope-overlay">
 											<a href="#">
 											Php Admin Panel Course Web Site
 											</a>
-										</div><!-- /.isotope-overlay -->
-									</div><!-- /.item -->
-								</div><!-- /.col -->
+										</div>
+									</div> -->
+								</div>
 
 								<div class="col-sm-4">
 									<div class="item">
@@ -723,15 +815,6 @@
 											</a>
 										</div><!-- /.isotope-overlay -->
 									</div><!-- /.item -->
-									<div class="item">
-										<img src="dist-front/assets/images/portfolio/adminW.png" alt="portfolio image"/>
-										<div class="isotope-overlay">
-											<a href="#">
-												Php Admin Panel Course Web Site
-											</a>
-										</div><!-- /.isotope-overlay -->
-									</div><!-- /.item -->
-								</div><!-- /.col -->
 							</div><!-- /.row -->
 						</div><!--/.isotope-->
 					</div><!--/.gallery-content-->
