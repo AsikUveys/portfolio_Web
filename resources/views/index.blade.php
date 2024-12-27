@@ -90,9 +90,9 @@
 			<div class="container">
 				<div class="about-content">
 					<div class="row">
-						<div class="col-sm-6">
+						<div class="col-sm-15" >
 							<div class="single-about-txt">
-								<h3>
+								<h3 id="aboutmeh3">
 									I am Aşık Üveys Uzunsakal, 22 years old. I graduated with a degree in computer programming.
 								</h3>
 								<p>
@@ -102,7 +102,7 @@
 									I take care to be. I remain calm and resolve any crisis.
 									I am a person who focuses. In general, I have been involved in Web Development (Html, Css, Php, JavaScript) projects and developed sites using Wordpress. Apart from Web Development, I have also developed many projects with Python. Although I have projects related to other fields and coding languages, the area I mainly work on is Web Development. Even if there are not exactly suitable images for the subject in question, there should be images suitable for the content of the subject. Example any ceiling light.
 								</p>
-								<div class="row">
+								<!-- <div class="row">
 									<div class="col-sm-4">
 										<div class="single-about-add-info">
 											<h3>phone</h3>
@@ -121,10 +121,10 @@
 											<p>www.asikuveys.com</p>
 										</div>
 									</div>
-								</div>
+								</div> -->
 							</div>
 						</div>
-						<div class="col-sm-offset-1 col-sm-5">
+						<!-- <div class="col-sm-offset-1 col-sm-5">
 							<div class="single-about-img">
 								<img src="assets/images/about/profile_image.jpg" alt="profile_image">
 								<div class="about-list-icon">
@@ -133,30 +133,26 @@
 											<a href="#">
 												<i  class="fa fa-twitter" aria-hidden="true"></i>
 											</a>
-										</li><!-- / li -->
+										</li>
 										<li>
 											<a href="https://github.com/AsikUveys" target="_blank">
 												<i  class="fa fa-github" aria-hidden="true"></i>
 											</a>
-										</li><!-- / li -->
+										</li>
 										<li>
 											<a href="https://www.linkedin.com/in/a%C5%9F%C4%B1k-%C3%BCveys-uzunsakal-a14801262/" target="_blank">
 												<i  class="fa fa-linkedin" aria-hidden="true"></i>
 											</a>
-										</li><!-- / li -->
+										</li>
 										<li>
 											<a href="#">
 												<i  class="fa fa-instagram" aria-hidden="true"></i>
 											</a>
-										</li><!-- / li -->
-										
-										
-									</ul><!-- / ul -->
-								</div><!-- /.about-list-icon -->
-
+										</li>														
+									</ul>
+								</div>
 							</div>
-
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
